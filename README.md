@@ -3,4 +3,4 @@ This is my first game using java,java swing and illustrator for desings, I've be
 
 :warning: **note:** First download game media from [Here](https://drive.google.com/open?id=12LVSjV9yXeljTYGfos8mWOu8XrXwV_n1 "Here"), Then create a file with name **"Data"** in **"Water-me-Game/src/"** directory, then but the media in it.
 
-"src" means the source folder , where the classes are .
+"src" means the source folder , where the classes are exist.
